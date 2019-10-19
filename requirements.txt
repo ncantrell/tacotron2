@@ -1,4 +1,4 @@
-matplotlib==3.0.0
+matplotlib==3.0.9
 tensorflow==1.13.1
 numpy==1.15.0
 inflect==0.2.5
@@ -9,4 +9,4 @@ Unidecode==1.0.22
 pillow==6.1.0
 folium==0.2.1
 imgaug==0.2.6
-protobuf==3.7.1
+protobuf==3.10.0
